@@ -1,0 +1,54 @@
+.test {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.botao-clique {
+    margin-right: 5px;
+    text-align: center;
+    font-size: 100px; /* Define o tamanho da fonte */
+    width: 500px; /* Define a largura do botão */
+    height: 100px; /* Define a altura do botão */
+    background-color: transparent;
+}
+
+.botao-nome{
+    text-align: center;
+    font-size: 50px;
+}
+
+.footer-class{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f1f1f1;
+    color: black;
+    text-align: center;
+}
+
+.div-span{
+    font-size: 50px;
+}
+
+.img-footer{
+    width: 100px;
+    height: 80px;
+}
+
+.div-footer{
+    display:flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+}
+
+
+
+button{
+    width: 100px; /* Define a largura do botão */
+    height: 20px; /* Define a altura do botão */
+    background-color: transparent;
+}
